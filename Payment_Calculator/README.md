@@ -2,7 +2,7 @@
 
 I worked at an hourly wage job, but each shift, role, and time of the day had an impact on my hourly wage / bonuses.
 
-so, during my CS studies, and to make a little implementaion of the topics I covered during my OOP course (which was taught in CPP), I decided to build my own daily wage calculator.
+So, during my CS studies, and to make a little implementaion of the topics I covered during my OOP course (which was taught in CPP), I decided to build my own daily wage calculator.
 
 ### This Payment Calculator Supports The Following Features:
 * It Supports Different Wage Types
