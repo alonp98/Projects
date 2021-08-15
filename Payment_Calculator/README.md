@@ -10,3 +10,6 @@ So, during my CS studies, and to make a little implementaion of the topics I cov
 * Want To Know How Much Money You Made Throughout This Specific Month? **NO PROBLEM**, It Can Do It For You
 
 
+#### This Program Is Terminal Based
+
+
