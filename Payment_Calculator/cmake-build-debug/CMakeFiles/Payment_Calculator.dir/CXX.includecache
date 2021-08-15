@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alon/Desktop/Programming/CPP/Projects/Payment_Calculator/main.cpp
+iostream
+-
+fstream
+-
+ctime
+-
+string
+-
+cstdlib
+-
+
