@@ -7,6 +7,6 @@ so, during my CS studies, and to make a little implementaion of the topics I cov
 ### This Payment Calculator Supports The Following Features:
 * It Supports Different Wage Types
 * The Calculator Can Save Your Daily Wage, And Load It Whenever You Wish.
-* Want To Know How Much Money You Made Throughout The Month? **NO PROBLEM**
+* Want To Know How Much Money You Made Throughout This Specific Month? **NO PROBLEM**, It Can Do It For You
 
 
